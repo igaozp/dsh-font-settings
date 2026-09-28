@@ -52,3 +52,7 @@ dsh plugin --profile demo remove @igaozp/dsh-font-settings
 ```
 
 卸载后重启 DSH，并刷新页面。
+
+## 维护与发布
+
+自动打包和 npm 发布流程见 [发布说明](PUBLISHING.md)。
