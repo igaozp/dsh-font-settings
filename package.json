@@ -1,12 +1,12 @@
 {
   "name": "@igaozp/dsh-font-settings",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/igaozp/dsh-font-settings.git"
   },
   "type": "module",
-  "description": "在 DSH 设置 → 通用中添加界面字体与代码字体设置；字体候选来自本机已安装字体。",
+  "description": "为 DeepSeek Harness 添加字体设置",
   "main": "lib/index.js",
   "files": ["lib", "cordis.patch.yml", "PUBLISHING.md"],
   "publishConfig": {
